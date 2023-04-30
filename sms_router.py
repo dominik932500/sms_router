@@ -2,7 +2,6 @@
 from flask import Flask, jsonify
 from flask import request
 from flask_restful import reqparse
-#!/usr/bin/python3
 import time
 import vodem.simple
 import string
